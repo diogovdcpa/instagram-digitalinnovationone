@@ -3,7 +3,7 @@
 ___
 
 <p align="center">
-  <img src="https://i.imgur.com/3K7V7hy.png" width="300" heigth="300">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="300" heigth="300">
 </p>
 
 
@@ -16,7 +16,7 @@ ___
 
 ___
 
-<img src="https://imgur.com/a/XAgwzzM" width="1200">
+<img src="https://i.imgur.com/3K7V7hy.png" width="1200">
 
 ## :information_source: Sobre
 
@@ -36,5 +36,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - HTML
 - CSS
-
+- API
 
